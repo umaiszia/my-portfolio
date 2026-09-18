@@ -9,7 +9,7 @@ export const profile = {
   tagline: "I build fast, clean interfaces with React,Javascript and Tailwind CSS.",
   location: "Rawalpindi, Pakistan",
   email: "umaiisziia@gmail.com",
-  resumeUrl: "/resume.pdf", // put your resume file in /public and update this path
+  resumeUrl: "/Syed_Umais_Zia_Resume.pdf", // put your resume file in /public and update this path
   socials: {
     github: "https://github.com/umaiszia",
     linkedin: "https://linkedin.com/in/umais-zia-9a04552a1",
