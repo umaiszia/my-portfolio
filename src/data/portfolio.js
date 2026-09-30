@@ -41,9 +41,16 @@ export const projects = [
   {
     title: "Project Two",
     description: "What it is: A full, modern website for a dental clinic — home, services, doctors, gallery, blog, appointment booking, contact — all in one polished, animated, mobile-friendly site.What it does: Lets patients browse treatments and doctors, and actually book an appointment online — the request emails straight to the clinic instead of them only getting phone calls.Why it helps: Makes the clinic look credible, easy to find on Google (every service/doctor has its own page), and easy to book with — without needing a developer for every small content change, since it's all editable from one file.What it's not: No admin panel, no real-time availability calendar, no patient database — it's a lead-generating marketing site, not clinic management software.",
-    tags: ["React", "Tailwind CSS", "JavaScript"],
+    tags: ["React", "Typescript", "Tailwindcss", "Javascript"],
     image: "/projects/thumbnail-2.png",
     liveUrl: "https://dentistry-and-co-website.vercel.app/",
+  },
+  {
+    title: "Project Three",
+    description: "What it is: A modern, animated website for NEXORA, a fictional AI workspace product, with a full-screen AI landing page, login/sign-up, and a working demo dashboard. Built with React, TypeScript, Tailwind CSS and Framer Motion. What it does: Lets visitors explore the landing page, then click through the dashboard: chat with the assistant, add projects and sources, and change settings. The hero background can be an animated AI network, a video or an image. Why it helps: A ready-made base for an AI/SaaS site, portfolio piece or client demo. All text, colours and dashboard widgets are editable from one config file or the built-in Customize panel. What it's not: No real backend, database or authentication. The login and assistant are simulated, and saved changes live in the browser only.",
+    tags: ["React", "Tailwind CSS", "JavaScript"],
+    image: "/projects/thumbnail-3.png",
+    liveUrl: "https://nexora-ai-one-beryl.vercel.app/",
   },
 ];
 
